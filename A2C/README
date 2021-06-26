@@ -1,1 +1,4 @@
+This code is to train the A2C agent for the robot path planning task. 
+The robot model involves the use of patents, so please use your own robot training environment, which is recommended to be built using OpenAI_GYM. 
+You can find at (http://wiki.ros.org/openai_ros)
 The implementation of A2C code here uses the code provided by the author MrSyee (https://github.com/MrSyee/pg-is-all-you-need).
